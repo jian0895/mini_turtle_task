@@ -1,4 +1,4 @@
-﻿# mini_turrle_task
+﻿# mini_turtle_task
 # Mini Turtle Task 🐢
 
 Un paquete educativo de Python que simula movimientos de una tortuga mediante dibujo en texto (ASCII),
@@ -16,3 +16,4 @@ Este paquete no está publicado en PyPI. Para instalarlo localmente, clone el re
 git clone https://github.com/jian0895/mini_turtle_task.git
 cd mini_turtle_task
 pip install .
+
